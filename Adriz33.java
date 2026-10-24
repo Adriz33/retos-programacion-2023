@@ -10,7 +10,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class lenguajehacker {
+public class adriz33 {
 
     public static void main(String[]args){
 
